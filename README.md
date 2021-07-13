@@ -7,6 +7,9 @@
   시작한지 얼마 안됐지만 열심히 공부하고 있습니다.<br/><br/>
   언젠가 훌륭한 앱 개발자가 되고싶습니다! ✨ <br/><br/>
 </p>
+<img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
 <p>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=rudeh567" height="165">
 </p>
+
+
